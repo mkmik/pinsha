@@ -1,5 +1,7 @@
 # pinsha
 
+// Pinsha is a simple tool that adds the image digest to an OCI image reference.
+
 ## Usage
 
 ```
