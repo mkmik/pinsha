@@ -1,6 +1,6 @@
 module github.com/mkmik/pinsha
 
-go 1.17
+go 1.19
 
 require github.com/google/go-containerregistry v0.8.0
 
