@@ -6,7 +6,7 @@ require github.com/google/go-containerregistry v0.8.0
 
 require (
 	github.com/containerd/stargz-snapshotter/estargz v0.10.1 // indirect
-	github.com/docker/cli v20.10.12+incompatible // indirect
+	github.com/docker/cli v29.2.0+incompatible // indirect
 	github.com/docker/distribution v2.8.2+incompatible // indirect
 	github.com/docker/docker v20.10.12+incompatible // indirect
 	github.com/docker/docker-credential-helpers v0.6.4 // indirect
